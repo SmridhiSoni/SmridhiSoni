@@ -1,7 +1,11 @@
 - 👋 Hi, I’m SmridhiSoni
-- 👀 I’m interested in learning new technologies and problem solving
-- 🌱 I’m currently learning frontend devlopment
-- 💞️ Ask me about Java,C++,Web Development,Data Stuctures,Algorithm
+
+- 👀 I’m interested in learning new technologies and problem solving.
+
+- 🌱 I’m currently learning frontend devlopment.
+
+- 💞️ Ask me about Java,C++,Web Development,Data Stuctures,Algorithm.
+
 - 📫 How to reach me smridhi1730.be20@chitkara.edu.in
 
 <!---
