@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SmridhiSoni
+- 👋 Hi, I’m Smridhi Soni
 
 - 👀 I’m interested in learning new technologies and problem solving.
 
