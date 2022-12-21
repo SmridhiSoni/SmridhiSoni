@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning frontend devlopment.
 
-- 💞️ Ask me about Java,C++,Web Development,Data Stuctures,Algorithm.
+- 💞️ Ask me about Java,C++,Web Development,Data Stuctures and Algorithm.
 
 - 📫 How to reach me smridhi1730.be20@chitkara.edu.in
 
